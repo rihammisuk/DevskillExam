@@ -1,0 +1,13 @@
+D:\exam\DevskillExam\DevskillExam\bin\Debug\netcoreapp3.1\DevskillExam.exe
+D:\exam\DevskillExam\DevskillExam\bin\Debug\netcoreapp3.1\DevskillExam.deps.json
+D:\exam\DevskillExam\DevskillExam\bin\Debug\netcoreapp3.1\DevskillExam.runtimeconfig.json
+D:\exam\DevskillExam\DevskillExam\bin\Debug\netcoreapp3.1\DevskillExam.runtimeconfig.dev.json
+D:\exam\DevskillExam\DevskillExam\bin\Debug\netcoreapp3.1\DevskillExam.dll
+D:\exam\DevskillExam\DevskillExam\bin\Debug\netcoreapp3.1\DevskillExam.pdb
+D:\exam\DevskillExam\DevskillExam\obj\Debug\netcoreapp3.1\DevskillExam.csprojAssemblyReference.cache
+D:\exam\DevskillExam\DevskillExam\obj\Debug\netcoreapp3.1\DevskillExam.AssemblyInfoInputs.cache
+D:\exam\DevskillExam\DevskillExam\obj\Debug\netcoreapp3.1\DevskillExam.AssemblyInfo.cs
+D:\exam\DevskillExam\DevskillExam\obj\Debug\netcoreapp3.1\DevskillExam.csproj.CoreCompileInputs.cache
+D:\exam\DevskillExam\DevskillExam\obj\Debug\netcoreapp3.1\DevskillExam.dll
+D:\exam\DevskillExam\DevskillExam\obj\Debug\netcoreapp3.1\DevskillExam.pdb
+D:\exam\DevskillExam\DevskillExam\obj\Debug\netcoreapp3.1\DevskillExam.genruntimeconfig.cache
